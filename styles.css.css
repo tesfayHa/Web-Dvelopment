@@ -1,0 +1,11 @@
+css/style.css
+body {
+    background-color:#EAF6F6;
+}
+hr{ 
+    border-style: none;
+    border-top-style: dotted;
+    border-width:20px;
+    border-color: grey;
+    width:20
+}
